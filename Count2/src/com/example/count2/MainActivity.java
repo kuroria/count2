@@ -9,7 +9,7 @@ import android.widget.TextView;
 public class MainActivity extends Activity {
 
 	TextView kko;
-	TextView jyou;
+	TextView jyou; // test
 	int num;
 
 	@Override
